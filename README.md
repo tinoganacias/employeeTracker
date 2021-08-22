@@ -6,8 +6,8 @@ This is a content management system (CMS).  It is a command-line application whi
 
 ## Table of Contents
 
-- [Installation] (#Installation)
-- [Usage] (#Usage)
+- Installation
+- Usage
 
 ## Installation
 
@@ -20,4 +20,4 @@ The following are required for installation:
 ## Usage
 
 link to the walkthrough video: https://drive.google.com/file/d/1B1l4qUNpWT7HX7JnqMKQKdJI_mb9v6D5/view
-Employee Tracker is deployed at: 
+Employee Tracker is deployed at: https://tinoganacias.github.io/employeeTracker/
