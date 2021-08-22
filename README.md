@@ -19,6 +19,11 @@ The following are required for installation:
                                             
 ## Usage
 
+![employeeTracker](https://user-images.githubusercontent.com/84544540/130340066-05c54c44-2a0e-4afd-bc7c-d3909b4c6f50.PNG)
+
+![Tracker2](https://user-images.githubusercontent.com/84544540/130340079-92b7c565-5836-4e7e-9e5f-0ae6de7cdb53.PNG)
+
+
 ## Walkthrough Video
 
 link to the walkthrough video: https://drive.google.com/file/d/1B1l4qUNpWT7HX7JnqMKQKdJI_mb9v6D5/view
