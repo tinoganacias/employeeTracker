@@ -19,5 +19,10 @@ The following are required for installation:
                                             
 ## Usage
 
+## Walkthrough Video
+
 link to the walkthrough video: https://drive.google.com/file/d/1B1l4qUNpWT7HX7JnqMKQKdJI_mb9v6D5/view
+
+## Deployed Site
+
 Employee Tracker is deployed at: https://tinoganacias.github.io/employeeTracker/
